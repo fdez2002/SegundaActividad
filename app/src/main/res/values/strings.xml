@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> IntentExplicito</string>
+    <string name="botonEvaluar">Evaluar</string>
+    <string name="inp_matematicas">Matemáticas</string>
+    <string name="inp_fisi">Física</string>
+    <string name="inp_quimi">Química</string>
+    <string name="tv_matematicas">NotaMates</string>
+    <string name="tv_fisi">NotaFisi</string>
+    <string name="tv_quimi">NotaQuimi</string>
+    <string name="tv_resultado">Resultado</string>
+</resources>
